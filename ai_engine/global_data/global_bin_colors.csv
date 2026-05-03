@@ -1,0 +1,13 @@
+Country,Language_Code,Glass,Plastic,Paper,Cardboard,Metal,Organic,Trash,Condition_Impact
+India,hi,Blue,Blue,Blue,Blue,Blue,Green,Black,Dirty items go to Black
+USA,en,Blue,Blue/Yellow,Blue,Blue,Blue,Green,Grey/Black,Contaminated paper goes to Black
+UK,en,Green/Brown,Yellow/Red,Blue,Blue,Grey,Brown/Green,Black,Oily cardboard is Trash
+Germany,de,White/Green/Brown,Yellow,Blue,Blue,Yellow,Brown,Grey,Only clean packaging in Yellow
+Japan,ja,Blue/Crates,Pink/Clear,Blue/Bundle,Blue/Bundle,Grey,Grey/Green,Red,Wash all containers first
+Australia,en,Yellow/Blue,Yellow,Yellow,Yellow,Yellow,Green/Red,Red,Dirty plastic is Red
+Spain,es,Green,Yellow,Blue,Blue,Yellow,Brown,Grey,Rinse before Yellow bin
+UAE,ar,Blue,Blue,Blue,Blue,Blue,Green,Black,Dry waste only in Blue
+Canada,en,Blue,Blue,Blue/Yellow,Blue/Yellow,Blue,Green,Black,Oily items are Black
+France,fr,White,Yellow,Yellow,Yellow,Yellow,Green/Brown,Green,Mixed recycling in Yellow
+Brazil,pt,Green,Red,Blue,Blue,Yellow,Brown,Grey,Clean recyclables only
+Italy,it,Green,Yellow/Blue,White/Blue,White/Blue,Yellow/Blue,Brown,Grey,Check local commune rules

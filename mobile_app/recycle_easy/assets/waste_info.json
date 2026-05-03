@@ -1,0 +1,85 @@
+{
+  "plastic": {
+    "display_name": "Plastic",
+    "risk": "Low",
+    "disposal": "Put in plastic recycling bin if clean and dry.",
+    "bin_default": "Blue",
+    "examples": [
+      "bottle",
+      "plastic cup",
+      "wrapper",
+      "plastic bag"
+    ]
+  },
+  "paper_cardboard": {
+    "display_name": "Paper / Cardboard",
+    "risk": "Low",
+    "disposal": "Put in paper/cardboard recycling bin if dry and clean.",
+    "bin_default": "Yellow",
+    "examples": [
+      "paper",
+      "carton",
+      "cardboard box",
+      "newspaper"
+    ]
+  },
+  "glass": {
+    "display_name": "Glass",
+    "risk": "Medium",
+    "disposal": "Put in glass recycling bin carefully. Avoid broken shards by hand.",
+    "bin_default": "Green",
+    "examples": [
+      "glass bottle",
+      "glass jar",
+      "broken glass"
+    ]
+  },
+  "metal": {
+    "display_name": "Metal",
+    "risk": "Medium",
+    "disposal": "Put in metal/can recycling bin. Sharp edges should be handled carefully.",
+    "bin_default": "Blue",
+    "examples": [
+      "can",
+      "tin",
+      "foil",
+      "metal container"
+    ]
+  },
+  "organic_food": {
+    "display_name": "Organic / Food Waste",
+    "risk": "Low",
+    "disposal": "Put in wet waste / compost / organic bin.",
+    "bin_default": "Brown",
+    "examples": [
+      "food scraps",
+      "fruit peel",
+      "vegetable waste"
+    ]
+  },
+  "electronic_waste": {
+    "display_name": "Electronic Waste",
+    "risk": "High",
+    "disposal": "Do not put in regular bins. Dispose at authorized e-waste collection point.",
+    "bin_default": "Special Collection",
+    "examples": [
+      "phone",
+      "charger",
+      "battery",
+      "cable",
+      "small electronics"
+    ]
+  },
+  "medical_waste": {
+    "display_name": "Medical Waste",
+    "risk": "High",
+    "disposal": "Handle carefully. Dispose using medical or hazardous waste collection rules.",
+    "bin_default": "Red / Special Collection",
+    "examples": [
+      "mask",
+      "glove",
+      "syringe",
+      "medicine packaging"
+    ]
+  }
+}

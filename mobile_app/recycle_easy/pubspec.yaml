@@ -1,0 +1,67 @@
+name: recycle_easy
+description: "A AI-powered waste classification app for graduation project 2026."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # AI & MACHINE LEARNING
+  tflite_flutter: ^0.12.1
+  image_picker: ^1.2.1
+  image: ^4.7.2
+  
+  # DATA & STORAGE
+  csv: ^5.0.2
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  google_fonts: ^8.0.2
+  translator: ^1.0.4+1
+  google_mlkit_text_recognition: ^0.15.1
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
+  flutter_map: ^8.2.2
+  latlong2: ^0.9.1
+  firebase_core: ^4.6.0
+  firebase_auth: ^6.3.0
+  provider: ^6.1.5+1
+  cloud_firestore: ^6.2.0
+  firebase_storage: ^13.2.0
+  firebase_app_check: ^0.4.2
+  intl: ^0.20.2
+  shared_preferences: ^2.5.5
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/waste_v1_final.tflite
+    - assets/labels.txt
+    - assets/global_bin_colors.csv
+    - assets/icons/
+    - assets/app_logo.png
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/app_logo.png"
+
+flutter_native_splash:
+  color: "#0F1722"
+  image: "assets/app_logo.png"
+  android_12:
+    image: "assets/app_logo.png"
+    icon_background_color: "#0F1722"

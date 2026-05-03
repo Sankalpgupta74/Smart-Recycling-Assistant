@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+.eggs/
+
+# Flutter/Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+
+# Android
+*.class
+*.jar
+*.ap_
+*.apk
+local.properties
+.classpath
+
+# iOS
+*.ipa
+*.xcuserstate
+DerivedData/
+*.hmap
+
+# IDEs and editors
+.idea/
+.vscode/
+.vs/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+*.env.local
+*.env.production
+
+# Project Specific Secrets
+mobile_app/recycle_easy/android/app/google-services.json
+mobile_app/recycle_easy/lib/firebase_options.dart
+ai_engine/claude_agent/.env
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Misc
+*.log
+*.tmp
+coverage/

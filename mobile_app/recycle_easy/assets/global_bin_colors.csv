@@ -1,0 +1,50 @@
+city,country,material,bin_color,instruction
+Venice,Italy,Plastic,Blue,Dispose in the Blue Bin
+Venice,Italy,Paper_Cardboard,Yellow,Dispose in the Yellow Bin
+Venice,Italy,Glass,Green,Dispose in the Green Bin
+Venice,Italy,Organic_Food,Brown,Dispose in the Brown Bin
+Venice,Italy,Metal,Blue,Dispose in the Blue Bin
+Venice,Italy,Electronic_Waste,Special Centre,Take to E-Waste Collection Centre
+Venice,Italy,Medical_Waste,Special Disposal,Dispose at Medical Waste Point
+Venice,Italy,Hazardous_Toxic,Special Disposal,Take to Hazardous Waste Facility
+Venice,Italy,Dump_Site,Grey,Dispose in Residual Waste
+
+Delhi,India,Plastic,Blue,Dry Waste Bin
+Delhi,India,Paper_Cardboard,Blue,Dry Waste Bin
+Delhi,India,Glass,Blue,Dry Waste Bin
+Delhi,India,Metal,Blue,Dry Waste Bin
+Delhi,India,Organic_Food,Green,Wet Waste Bin
+Delhi,India,Electronic_Waste,E-Waste Centre,Take to E-Waste Collection Centre
+Delhi,India,Medical_Waste,Red,Dispose via Biomedical Waste Collection
+Delhi,India,Hazardous_Toxic,Special Disposal,Take to Hazardous Waste Collection Point
+Delhi,India,Dump_Site,Black,General Waste
+
+Paris,France,Plastic,Yellow,Dispose in the Yellow Recycling Bin
+Paris,France,Paper_Cardboard,Yellow,Dispose in the Yellow Recycling Bin
+Paris,France,Glass,Green,Dispose in the Green Glass Bin
+Paris,France,Organic_Food,Brown,Dispose in Organic Waste
+Paris,France,Metal,Yellow,Dispose in the Yellow Recycling Bin
+Paris,France,Electronic_Waste,Special Centre,Take to E-Waste Collection Point
+Paris,France,Medical_Waste,Special Disposal,Dispose at Pharmacy or Medical Point
+Paris,France,Hazardous_Toxic,Special Disposal,Take to Hazardous Waste Point
+Paris,France,Dump_Site,Grey,Dispose in General Waste
+
+Tokyo,Japan,Plastic,Plastic Bin,Dispose in Plastic Recycling
+Tokyo,Japan,Paper_Cardboard,Paper Bin,Dispose in Paper Recycling
+Tokyo,Japan,Glass,Glass Bin,Dispose in Glass Recycling
+Tokyo,Japan,Organic_Food,Burnable,Dispose in Burnable Waste
+Tokyo,Japan,Metal,Can Bin,Dispose in Metal/Can Recycling
+Tokyo,Japan,Electronic_Waste,Special Centre,Take to E-Waste Collection Point
+Tokyo,Japan,Medical_Waste,Special Disposal,Dispose at Approved Medical Waste Point
+Tokyo,Japan,Hazardous_Toxic,Special Disposal,Dispose via Hazardous Waste Facility
+Tokyo,Japan,Dump_Site,Burnable,Dispose in Burnable Waste
+
+New York,USA,Plastic,Blue,Recycle in Blue Bin
+New York,USA,Paper_Cardboard,Blue,Recycle in Blue Bin
+New York,USA,Glass,Blue,Recycle in Blue Bin
+New York,USA,Metal,Blue,Recycle in Blue Bin
+New York,USA,Organic_Food,Brown,Compost Bin
+New York,USA,Electronic_Waste,Special Centre,Take to E-Waste Drop-Off
+New York,USA,Medical_Waste,Special Disposal,Dispose at Approved Medical Waste Point
+New York,USA,Hazardous_Toxic,Special Disposal,Take to Hazardous Waste Collection Site
+New York,USA,Dump_Site,Black,General Waste

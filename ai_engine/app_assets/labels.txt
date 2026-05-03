@@ -1,0 +1,7 @@
+plastic
+paper_cardboard
+glass
+metal
+organic_food
+electronic_waste
+medical_waste
